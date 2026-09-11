@@ -1,0 +1,6 @@
+{
+  "name": "Titans Gym",
+  "description": "Titans Gym — a premium unisex fitness arena focused on strength, fitness, conditioning and body transformation. Fight for Fitness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
